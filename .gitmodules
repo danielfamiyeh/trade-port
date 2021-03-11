@@ -1,10 +1,7 @@
 [submodule "stocks"]
 	path = stocks
-	url = ./stocks
+	url = https://github.com/danielfamiyeh/tp-stocks-service.git
 
 [submodule "web"]
 	path = web
-	url = ./web
-[submodule "tp-web-service"]
-	path = tp-web-service
-	url = https://github.com/danielfamiyeh/tp-web-service
+	url = https://github.com/danielfamiyeh/tp-web-service.git
